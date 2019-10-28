@@ -1,0 +1,2 @@
+[submodule "custom/themes/powerlevel9k"]
+	url = https://github.com/angtsusiong/pl9k.git
